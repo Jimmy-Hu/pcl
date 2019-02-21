@@ -1,0 +1,3 @@
+[submodule "3rdparty/flann"]
+	path = 3rdparty/flann
+	url = git@github.com:Jimmy-Hu/flann.git
